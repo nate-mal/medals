@@ -1,1 +1,6 @@
-Append new line
+bronze.html
+hah.txt
+medals.html
+new.html
+new2.txt
+new3.txt
